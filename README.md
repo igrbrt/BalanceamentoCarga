@@ -1,6 +1,6 @@
 # BalanceamentoCarga
 
-Balanceamento de Carga com servidor e cliente desenvolvido em Python
+Balanceamento de Carga com servidor e cliente desenvolvido em Python com Sockets
 
 Para executar:
 
